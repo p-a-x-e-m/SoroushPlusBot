@@ -13,7 +13,7 @@
 # PYSEC-2026-2275 (older 2.32.x releases were affected). Re-check with:
 #   pip-audit -r requirements.lock.txt
 attrs==26.1.0
-certifi==2026.7.22
+certifi==2026.10.23
 cffi==2.1.1
 charset-normalizer==3.5.2
 h11==0.16.0
